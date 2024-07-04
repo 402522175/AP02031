@@ -1,0 +1,15 @@
+c:\git\AP02032\s14\Animals\bin\Debug\net8.0\Animals.exe
+c:\git\AP02032\s14\Animals\bin\Debug\net8.0\Animals.deps.json
+c:\git\AP02032\s14\Animals\bin\Debug\net8.0\Animals.runtimeconfig.json
+c:\git\AP02032\s14\Animals\bin\Debug\net8.0\Animals.dll
+c:\git\AP02032\s14\Animals\bin\Debug\net8.0\Animals.pdb
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\Animals.AssemblyInfoInputs.cache
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\Animals.AssemblyInfo.cs
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\Animals.csproj.CoreCompileInputs.cache
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\Animals.sourcelink.json
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\Animals.dll
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\refint\Animals.dll
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\Animals.pdb
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\Animals.genruntimeconfig.cache
+c:\git\AP02032\s14\Animals\obj\Debug\net8.0\ref\Animals.dll
