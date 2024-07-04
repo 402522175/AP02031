@@ -1,0 +1,18 @@
+﻿namespace E2.Calc
+{
+    /// <summary>
+    /// ماشین حساب وقتی به این حالت وارد میشود که خطایی رخ داده باشد
+    /// از این حالت هر کلیدی که فشار داده شود به وضعیت اولیه باید برگردیم
+    /// #2 لطفا!
+    /// برای این کلاس نیاز نیست کاری انجام دهید
+    /// </summary>
+    public class ErrorState : CalculatorState
+    {
+        public ErrorState(Calculator calc) : base(calc) { }
+        public override IState EnterEqual() => null;
+        public override IState EnterNonZeroDigit(char c) => null;
+        public override IState EnterZeroDigit() => null;
+        public override IState EnterOperator(char c) => null;
+        public override IState EnterPoint() => null;
+    }
+}

@@ -1,0 +1,15 @@
+C:\git\AP02032\E2\E2\bin\Debug\net8.0\E2.exe
+C:\git\AP02032\E2\E2\bin\Debug\net8.0\E2.deps.json
+C:\git\AP02032\E2\E2\bin\Debug\net8.0\E2.runtimeconfig.json
+C:\git\AP02032\E2\E2\bin\Debug\net8.0\E2.dll
+C:\git\AP02032\E2\E2\bin\Debug\net8.0\E2.pdb
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\E2.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\E2.AssemblyInfoInputs.cache
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\E2.AssemblyInfo.cs
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\E2.csproj.CoreCompileInputs.cache
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\E2.sourcelink.json
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\E2.dll
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\refint\E2.dll
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\E2.pdb
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\E2.genruntimeconfig.cache
+C:\git\AP02032\E2\E2\obj\Debug\net8.0\ref\E2.dll

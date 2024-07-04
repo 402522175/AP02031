@@ -1,0 +1,15 @@
+C:\git\AP02032\E2\Calc\bin\Debug\net8.0\Calc.exe
+C:\git\AP02032\E2\Calc\bin\Debug\net8.0\Calc.deps.json
+C:\git\AP02032\E2\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+C:\git\AP02032\E2\Calc\bin\Debug\net8.0\Calc.dll
+C:\git\AP02032\E2\Calc\bin\Debug\net8.0\Calc.pdb
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\Calc.sourcelink.json
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\Calc.dll
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\refint\Calc.dll
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\Calc.pdb
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+C:\git\AP02032\E2\Calc\obj\Debug\net8.0\ref\Calc.dll
