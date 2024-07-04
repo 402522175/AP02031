@@ -1,0 +1,15 @@
+C:\git\AP02032\E1\E1\bin\Debug\net8.0\E1.exe
+C:\git\AP02032\E1\E1\bin\Debug\net8.0\E1.deps.json
+C:\git\AP02032\E1\E1\bin\Debug\net8.0\E1.runtimeconfig.json
+C:\git\AP02032\E1\E1\bin\Debug\net8.0\E1.dll
+C:\git\AP02032\E1\E1\bin\Debug\net8.0\E1.pdb
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\E1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\E1.AssemblyInfoInputs.cache
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\E1.AssemblyInfo.cs
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\E1.csproj.CoreCompileInputs.cache
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\E1.sourcelink.json
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\E1.dll
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\refint\E1.dll
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\E1.pdb
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\E1.genruntimeconfig.cache
+C:\git\AP02032\E1\E1\obj\Debug\net8.0\ref\E1.dll
