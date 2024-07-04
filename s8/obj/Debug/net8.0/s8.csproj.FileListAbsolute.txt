@@ -1,0 +1,15 @@
+C:\git\AP02032\s8\obj\Debug\net8.0\s8.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP02032\s8\obj\Debug\net8.0\s8.AssemblyInfoInputs.cache
+C:\git\AP02032\s8\obj\Debug\net8.0\s8.AssemblyInfo.cs
+C:\git\AP02032\s8\obj\Debug\net8.0\s8.csproj.CoreCompileInputs.cache
+C:\git\AP02032\s8\obj\Debug\net8.0\s8.sourcelink.json
+C:\git\AP02032\s8\bin\Debug\net8.0\s8.exe
+C:\git\AP02032\s8\bin\Debug\net8.0\s8.deps.json
+C:\git\AP02032\s8\bin\Debug\net8.0\s8.runtimeconfig.json
+C:\git\AP02032\s8\bin\Debug\net8.0\s8.dll
+C:\git\AP02032\s8\bin\Debug\net8.0\s8.pdb
+C:\git\AP02032\s8\obj\Debug\net8.0\s8.dll
+C:\git\AP02032\s8\obj\Debug\net8.0\refint\s8.dll
+C:\git\AP02032\s8\obj\Debug\net8.0\s8.pdb
+C:\git\AP02032\s8\obj\Debug\net8.0\s8.genruntimeconfig.cache
+C:\git\AP02032\s8\obj\Debug\net8.0\ref\s8.dll
